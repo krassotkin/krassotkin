@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @krassotkin.
-- 🏠 My website is http://www.krassotkin.com/
+- 🏠 My website is https://krassotkin.com/
 
 <!---
 - 👀 I’m interested in ...
