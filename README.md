@@ -2,6 +2,8 @@
 
 🏠 My website is [krassotkin.com](https://krassotkin.com/).
 
+🗂️ [Wikidata about me](https://www.wikidata.org/wiki/Q49825788).
+
 🔥 You may have used my projects, for example, [Cheat-Sheets.org](https://www.cheat-sheets.org/).
 
 <!---
