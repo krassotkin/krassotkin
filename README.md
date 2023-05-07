@@ -1,5 +1,8 @@
-- 👋 Hi, I’m @krassotkin.
-- 🏠 My website is https://krassotkin.com/
+👋 Hi, I’m Alexander Krassotkin (@krassotkin).
+
+🏠 My website is [krassotkin.com](https://krassotkin.com/).
+
+🔥 You may have used my projects, for example, [Cheat-Sheets.org](https://www.cheat-sheets.org/).
 
 <!---
 - 👀 I’m interested in ...
