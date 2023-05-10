@@ -4,7 +4,7 @@
 
 🗂️ [Wikidata about me](https://www.wikidata.org/wiki/Q49825788).
 
-🔥 You may have used my projects, for example, [Cheat-Sheets.org](https://www.cheat-sheets.org/).
+🔥 You may have used my projects, for example, [Cheat-Sheets.org](https://cheat-sheets.org/).
 
 <!---
 - 👀 I’m interested in ...
