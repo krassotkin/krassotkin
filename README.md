@@ -1,6 +1,8 @@
-👋 Hi, I’m Alexander Krassotkin (@krassotkin).
+👋 Hi, I’m Alexander Krassotkin ([@krassotkin](https://github.com/krassotkin)).
 
-🏠 My website is [krassotkin.com](https://krassotkin.com/).
+🏠 My website is [krassotkin.com](https://krassotkin.com/). Please use ✉ email for communication.
+
+🌐 I am on all social networks, but now I am most active on 🧵 Threads ([threads.net/@krassotkin](https://www.threads.net/@krassotkin)).
 
 🗂️ [Wikidata about me](https://www.wikidata.org/wiki/Q49825788).
 
