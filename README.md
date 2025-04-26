@@ -2,7 +2,7 @@
 
 🏠 My website is [krassotkin.com](https://krassotkin.com/). Please use ✉ email for communication.
 
-🌐 I am on all social networks, but now I am most active on 🧵 Threads ([threads.net/@krassotkin](https://www.threads.net/@krassotkin)).
+🌐 I am on all social networks, but now I am most active on Bluesky ([@krassotkin.bsky.social](https://bsky.app/profile/krassotkin.bsky.social)) and Threads ([threads.net/@krassotkin](https://www.threads.net/@krassotkin)).
 
 🗂️ [Wikidata about me](https://www.wikidata.org/wiki/Q49825788).
 
